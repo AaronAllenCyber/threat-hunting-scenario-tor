@@ -77,7 +77,7 @@ DeviceFileEvents
 ## Created By:
 - **Author Name**: Aaron Allen
 - **Author Contact**:(https://www.linkedin.com/in/aaron-allen-4578a2159)
-- **Date**: August 31, 2025
+- **Date**: March 18, 2026
 
 ## Validated By:
 - **Reviewer Name**: 
@@ -91,7 +91,3 @@ DeviceFileEvents
 
 ---
 
-## Revision History:
-| **Version** | **Changes**                   | **Date**         | **Modified By**   |
-|-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `September  6, 2025`  | `Aaron Allen`   
